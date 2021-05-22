@@ -6,3 +6,5 @@ Query example locally<br>
 ![Screenshot](screenshots/query.PNG)<br/>
 Deploying to Heroku using Heroku CLI <br>
 ![Screenshot](screenshots/herokuDeployment.PNG)<br/>
+Testing query against the deployed application on Heroku using Postman <br>
+![Screenshot](screenshots/queryPostman.PNG)<br/>
