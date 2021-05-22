@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GeorgiDinov/pu-backend-js#readme",
   "dependencies": {
     "apollo-server": "^2.24.1",
+    "mongoose": "^5.12.10",
     "nodemon": "^2.0.7"
   }
 }
